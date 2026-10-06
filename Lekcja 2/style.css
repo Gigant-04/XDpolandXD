@@ -1,0 +1,55 @@
+body{
+    color:#000000;
+}
+
+
+#naglowek{
+    background-color: cyan;
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    font-family: 'bold', sans-serif;
+    letter-spacing: 2px;
+}
+
+#tresc{
+    background-color: darkcyan;
+}
+
+#baner{
+     background-image: url('https://fastly.picsum.photos/id/950/1200/300.jpg?hmac=ak6j-mqn92V_qBQxKeze8u2eNZN5IvrX3LvReK3ALtc');
+     background-size: cover;
+     background-position: center;
+     color: white ;
+     text-align: center;
+     padding: 60px 30px;
+     text-shadow: 2px 2 px 4 px #000000;
+}
+
+
+#tresc{
+    width: 100%;
+    background-color: hsl(0, 0%, 100%);
+    padding: 20px 0px;
+    min-height: 300px
+
+}
+
+
+.wpis{
+    width: 80%;
+    margin:15px auto;
+    background-color:  hsl(0, 10%, 90%);
+    border-radius:8px;
+    padding: 15px 20px;
+    box-shadow:0 2px 8px black rgba (0,0,0,0.1);
+    font-family: 'Heletica', Arial,sans-serif;
+}
+
+.wpis .autor{
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+    margin-bottom: 2px;
+}
+
